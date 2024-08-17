@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Jost';
+    src: url('fonts/fonts.ttf') format('ttf'),
+         url('fonts/fonts.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roboto';
+    src: url('fonts/fonts.ttf') format('ttf'),
+         url('fonts/fonts.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  
+  body {
+    font-family: 'Jost', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+  }
+  
